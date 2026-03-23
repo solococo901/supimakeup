@@ -12,7 +12,6 @@ export default function About() {
             src="/p1.jpg"
             className="w-full h-[500px] object-cover rounded-xl"
           />
-          <img src="/signature.png" className="h-12 mt-6" />
 
           {/* overlay nhẹ */}
           <div className="absolute inset-0 bg-white/10" />

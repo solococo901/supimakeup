@@ -5,6 +5,9 @@ import VideoSection from "@/components/VideoSection"
 import About from "@/components/About"
 import Booking from "@/components/Booking"
 import CoursePersonal from "@/components/CoursePersonal"
+import CoursePro from "@/components/CoursePro"
+import Testimonial from "@/components/Testimonial"
+import Footer from "@/components/Footer"
 
 export default function Home() {
   return (
@@ -16,6 +19,9 @@ export default function Home() {
       <About />
       <Booking />
       <CoursePersonal />
+      <CoursePro />
+      <Testimonial />
+      <Footer />
     </main>
   )
 }
