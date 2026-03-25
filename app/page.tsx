@@ -8,6 +8,7 @@ import CoursePersonal from "@/components/CoursePersonal"
 import CoursePro from "@/components/CoursePro"
 import Testimonial from "@/components/Testimonial"
 import Footer from "@/components/Footer"
+import Test from "@/components/test"
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <CoursePro />
       <Testimonial />
       <Footer />
+      <Test />
     </main>
   )
 }
